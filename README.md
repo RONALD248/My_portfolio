@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my background, 
 
 ## 📄 Overview
 
-This is a responsive and clean portfolio built using **HTML** and **CSS**. It was developed as part of the [PLP Academy Portfolio Challenge](https://plpacademy.powerlearnproject.org/).
+This is a responsive and clean portfolio built using **HTML** , **CSS** and **JavaScript**It was developed as part of the [PLP Academy Portfolio Challenge](https://plpacademy.powerlearnproject.org/). and also to showcase my project as a web developer.
 
 ### 👤 About Me
 
@@ -21,7 +21,7 @@ I’m enthusiastic about technology, web development, programming, and solving r
 
 - **HTML5** for structure and semantics  
 - **CSS3** for styling and layout  
-    
+- **JavaScript** for the functionality of the web page      
 
 ---
 
@@ -71,6 +71,3 @@ To grow my skills as a full-stack developer and software engineer while pursuing
 
 This project is open for educational and personal use. Just give credit where it’s due. 😉
 
----
-
-> Built with ❤️ during the PLP Academy Portfolio Challenge 2025
